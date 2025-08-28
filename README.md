@@ -21,11 +21,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/kishore-rv/kishore-rv/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 😂 Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
