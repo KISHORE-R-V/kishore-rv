@@ -1,12 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kishore;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MySQL+%7C+AWS;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kishore;Java+%7C+Spring+Boot+%7C+MySQL+%7C+AWS;Exploring+DSA+%26+Problem+Solving;Always+curious+to+learn+new+things)](https://git.io/typing-svg)
 
 ---
 
 ### 🌟 About Me
-- 💻 Full-stack developer passionate about **Java | Spring Boot | MySQL | AWS**  
-- 🚀 Currently working on: **Internship Portal**, **Women’s Safety App**, and **Advertising Agency Website**  
-- 🌱 Learning **DSA & HashMaps in Java**  
-- 🎯 Goal: Build applications that **make life easier & safer**  
+- 💻 Tech enthusiast passionate about **Java, Spring Boot, MySQL, AWS**  
+- 🌱 Exploring **DSA, HashMaps, and real-world problem solving**  
+- 🔍 Curious about how **technology can make life safer & smarter**  
 
 ---
 
@@ -18,14 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-</p>
-
----
-
-### 📊 GitHub Fun Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishore-rv&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=kishore-rv&theme=radical" height="150"/>
 </p>
 
 ---
